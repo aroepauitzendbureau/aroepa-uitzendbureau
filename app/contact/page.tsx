@@ -1,0 +1,1 @@
+export default function Page(){return (<div><h1 className='text-2xl font-bold mb-2'>Contact</h1><p>Mail: info@jouwdomein.nl</p></div>)}

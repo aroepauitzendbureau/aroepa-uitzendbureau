@@ -1,0 +1,1 @@
+export default function Page(){return (<div className='card'><h1 className='text-2xl font-bold mb-2'>Bedankt!</h1><p>Je sollicitatie is ontvangen. We nemen zo snel mogelijk contact met je op.</p></div>)}

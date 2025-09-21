@@ -1,0 +1,1 @@
+export default function Page(){return (<div><h1 className='text-2xl font-bold mb-2'>Over ons</h1><p>Korte intro over Aroepa Uitzendbureau.</p></div>)}
